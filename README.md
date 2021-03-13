@@ -1,0 +1,4 @@
+# dns_spoof_presentation_resources
+Here are some of the files I made for this presentation (not all of them for obvious reasons)
+! I'M NOT RESPSONSIBLE FOR ANYTHING THAT HAPPENS !
+use at your own risk :)
